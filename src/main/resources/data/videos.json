@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "【4K】第一次拍雪景，结果手抖得像帕金森",
+    "author": "kira的摄影日记",
+    "play": "12.3万",
+    "duration": "08:21",
+    "cover": "linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%)",
+    "badge": "新",
+    "danmu": "1284",
+    "date": "2026-10-20",
+    "descr": "第一次在北方过冬，扛着相机在雪地里站了两个小时。\n设备：一台入门微单 + 一条冻硬的手。"
+  },
+  {
+    "id": 2,
+    "title": "我用 Vue3 从零写了一个视频网站，全程无剪辑",
+    "author": "前端小张",
+    "play": "4.6万",
+    "duration": "32:07",
+    "cover": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
+    "badge": "",
+    "danmu": "356",
+    "date": "2026-10-18",
+    "descr": "从 npm create 到首页出来，一共 40 分钟。中间报了 7 次错，全留在视频里了。"
+  },
+  {
+    "id": 3,
+    "title": "宿舍夜宵之王：十分钟搞定的番茄鸡蛋面",
+    "author": "会做饭的程序员",
+    "play": "89.1万",
+    "duration": "05:44",
+    "cover": "linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%)",
+    "badge": "热门",
+    "danmu": "8821",
+    "date": "2026-10-15",
+    "descr": "一个电煮锅就能做，不需要任何厨艺。"
+  },
+  {
+    "id": 4,
+    "title": "把 old laptop 装成 Linux 服务器，跑满 7×24 小时",
+    "author": "折腾不止",
+    "play": "2.1万",
+    "duration": "18:30",
+    "cover": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)",
+    "badge": "",
+    "danmu": "97",
+    "date": "2026-10-12",
+    "descr": "一台 2015 年的笔记本，换了 SSD 之后还能再战五年。"
+  },
+  {
+    "id": 5,
+    "title": "猫咪以为我要出门，提前五分钟堵在门口",
+    "author": "橘猫食堂",
+    "play": "203.4万",
+    "duration": "01:12",
+    "cover": "linear-gradient(135deg, #fddb92 0%, #d1fdff 100%)",
+    "badge": "热门",
+    "danmu": "15203",
+    "date": "2026-10-10",
+    "descr": "每次我拿钥匙它就冲过来，这次直接躺平了。"
+  },
+  {
+    "id": 6,
+    "title": "为什么你的 CSS 总是对不齐？Flex 和 Grid 一次讲透",
+    "author": "样式重构师",
+    "play": "7.8万",
+    "duration": "24:05",
+    "cover": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+    "badge": "",
+    "danmu": "642",
+    "date": "2026-10-08",
+    "descr": "把 90% 的对齐问题归成四类，每类一个解法。"
+  },
+  {
+    "id": 7,
+    "title": "花 300 块改造出租屋书桌，效果比想象中好",
+    "author": "改造日记",
+    "play": "35.2万",
+    "duration": "11:18",
+    "cover": "linear-gradient(135deg, #d4fc79 0%, #96e6a1 100%)",
+    "badge": "新",
+    "danmu": "2311",
+    "date": "2026-10-05",
+    "descr": "清单：桌面贴纸 80、支架 120、灯带 45、剩下买了个收纳盒。"
+  },
+  {
+    "id": 8,
+    "title": "一口气看完《三体》动画第一季（上）",
+    "author": "影视速看",
+    "play": "56.9万",
+    "duration": "45:00",
+    "cover": "linear-gradient(135deg, #accbee 0%, #e7f0fd 100%)",
+    "badge": "",
+    "danmu": "4720",
+    "date": "2026-09-28",
+    "descr": "本视频仅供学习交流，如有侵权请联系删除。"
+  }
+]

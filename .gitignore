@@ -1,0 +1,16 @@
+# 本地配置（含数据库密码，不提交）
+src/main/resources/application.yml
+
+# 编译产物
+target/
+
+# IDEA
+.idea/
+*.iml
+
+# 日志
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
